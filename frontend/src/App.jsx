@@ -35,7 +35,7 @@ const App = () => {
         cycleTitles();
       } else {
         clearTimeout(timeoutId);
-        document.title = "Home - My Website";
+        document.title = "ARISMA";
       }
     };
 
